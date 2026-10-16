@@ -2,9 +2,9 @@
 
 **Who holds Ann Arbor's city contracts, how they won them, and when they end.**
 
-When a city contract ends, other companies get a chance to compete for it. From my research, for a company that sells to government, the end date of a government contract is an extremely important fact, and it's usually deep in long council memos that most people aren't gonna read. "Incumbent Clock" reads every Ann Arbor City Council resolution since July 2022 and pulls out each contract's vendor, amount, award method (bid, cooperative or sole source) and end date. This website is a visualization tool for the data and links you back to where the information came from. 
+When a city contract ends, other companies get a chance to compete for it. From my research, for a company that sells to government, the end date of a government contract is an extremely important fact, and it's usually deep in long council memos that most people aren't gonna read. "Incumbent Clock" reads every Ann Arbor City Council resolution since July 2022 and pulls out each contract's vendor, amount, award method (bid, cooperative or sole source) and end date. This website is a visualization tool for the data, shows you important information (like who signed off the memos, how your competitors are doing, etc) and links you exactly to where the information came from. I
 
-This was built almost entirely with AI tools. I did extensive research, understood the problem, understood the technicals and made sure I knew what was going on, and built a lot of accounting for why I think visualization tools like this aren't as popular. I think there are a couple of reasons? But one of them is absolutely trust. Like say hallucination when you have a simple agent crawl through a bunch of pdfs, and it makes data up about something. One thing I did in response to this, I took inspiration from a blogger I like to read from, where when you hover over a data point, it shows you the page with the quote of where that the information comes from, and a snippet of what it is. I thought it'd be pretty useful for a tool like this so you know the information isn't just made up. Another thing I did was set the rule that a fact only counts if its quote appears word for word in the record. And you can check yourself by just clicking on the fact, and it takes you to the Legislar page with the information!
+This was built almost entirely with AI tools. I did extensive research, understood the problem, understood the technicals and made sure I knew what was going on, and built a lot accounting for why I think tools like this aren't as popular. I think there are a couple of reasons? But one of them is absolutely trust. Like say hallucination when you have a simple agent crawl through a bunch of pdfs, and it makes data up about something. One thing I did in response to this, I took inspiration from a blogger I like to read from, where when you hover over a data point, it shows you the page with the quote of where that the information comes from, and a snippet of what it is. I thought it'd be pretty useful for a tool like this so you know the information isn't just made up. Another thing I did was set the rule that a fact only counts if its quote appears word for word in the record. And you can check yourself by just clicking on the fact, and it takes you to the Legislar page with the information!
 
 I think this is pretty cool, and would totally be helpful for me as a salesperson/company that looks for government contracts and needs information on what's going on. 
 
@@ -73,12 +73,13 @@ Point at any underlined fact to see the exact sentence it came from. Click the f
 
 ## With another week
 
-- I'd probably make this a working database with more information
+- I'd probably make this a working database with more information. Updating realtime would be nice.
 - Read the attached contract PDFs, and run an optional AI step on memos the patterns missed. Then measure accuracy against 40 hand-checked records.
-- Add more cities? Expand the scope?
+- Add more cities? Expanding the scope to other places would be nice once a single city was done very well.
 - I'd definitely need more information to use/compare against so I know what I'm doing is actually accurate. Like I could maybe add the city's payment data (A2OpenBook) to compare approved against paid.
 - Something like email alerts when a contract in someones market is coming up could be useful?
 - I'd definitely look more into how local governments contract with medical companies. I currently don't know much about that, but it seems like there are things that could definitely use improvement (physical therapy, substance abuse treatment, emergency medical care, public health clinics!!).
+- I'd definitely flesh this out way more. I had relatively minimal time to make this because I was studying for like three exams lol, but I like how it is as a tool right now. 
 
 ## The Project Folder
 

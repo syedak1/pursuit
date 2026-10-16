@@ -2,7 +2,7 @@
 
 **Who holds Ann Arbor's city contracts, how they won them, and when they end.**
 
-When a city contract ends, other companies get a chance to compete for it. From my research, for a company that sells to government, the end date of a government contract is an extremely important fact, and it's usually deep in long council memos that most people aren't gonna read. "Incumbent Clock" reads every Ann Arbor City Council resolution since July 2022 and pulls out each contract's vendor, amount, award method (bid, cooperative or sole source) and end date. This website is a visualization tool for the data, shows you important information (like who signed off the memos, how your competitors are doing, etc) and links you exactly to where the information came from. I
+When a city contract ends, other companies get a chance to compete for it. From my research, for a company that sells to government, the end date of a government contract is an extremely important fact, and it's usually deep in long council memos that most people aren't gonna read. "Incumbent Clock" reads every Ann Arbor City Council resolution since July 2022 and pulls out each contract's vendor, amount, award method (bid, cooperative or sole source) and end date. This website is a visualization tool for the data, shows you important information (like who signed off the memos, how your competitors are doing, etc) and links you exactly to where the information came from. 
 
 This was built almost entirely with AI tools. I did extensive research, understood the problem, understood the technicals and made sure I knew what was going on, and built a lot accounting for why I think tools like this aren't as popular. I think there are a couple of reasons? But one of them is absolutely trust. Like say hallucination when you have a simple agent crawl through a bunch of pdfs, and it makes data up about something. One thing I did in response to this, I took inspiration from a blogger I like to read from, where when you hover over a data point, it shows you the page with the quote of where that the information comes from, and a snippet of what it is. I thought it'd be pretty useful for a tool like this so you know the information isn't just made up. Another thing I did was set the rule that a fact only counts if its quote appears word for word in the record. And you can check yourself by just clicking on the fact, and it takes you to the Legislar page with the information!
 
@@ -42,22 +42,22 @@ just to make sure the info parts of the tool are actually working right
 
 ## What's on the site
 
-- **For Pursuit:** A guided tour of the site with baked in examples.
-- **Where to sell:** What the information for a company would basically look like. You see the contracts in that market ending in the next 18 months, who holds them, upcoming council votes, and the departments that buy from that area. 
-- **Timeline:** One bar per vendor, from first award to last known end date. Competitors you pick are highlighted.
-- **Competition:** how much of the city's contracting was competitively bid, and who keeps winning without competition.
-- **Research:** Search and filter every record, including the full memo text.
-- **How it works:** the method, the limits and a glossary.
+- A guided tour of the site with baked in examples.
+- What the information for a company would basically look like. You see the contracts in that market ending in the next 18 months, who holds them, upcoming council votes, and the departments that buy from that area. 
+- One bar per vendor, from first award to last known end date. Competitors you pick are highlighted.
+- How much of the city's contracting was competitively bid, and who keeps winning without competition.
+- Search and filter every record, including the full memo text.
+- The method, the limits and a glossary.
 
 Point at any underlined fact to see the exact sentence it came from. Click the fact itself to keep that preview open.
 
 ## How it works
 
-1. **Download.** Get every council resolution since July 2022 from Legistar's public API. Legistar is the system Ann Arbor uses to publish council records.
-2. **Read.** Text patterns pull facts from each title and staff memo: vendor, amount, award method, term, end date, renewal options and memo author.
-3. **Check.** A fact is kept only if its quote appears word for word in the record.
-4. **Calculate.** End dates, totals and contract history are worked out in code.
-5. **Show.** The website is built from the result.
+1. Get every council resolution since July 2022 from Legistar's public API. Legistar is the system Ann Arbor uses to publish council records.
+2. Text patterns pull facts from each title and staff memo: vendor, amount, award method, term, end date, renewal options and memo author.
+3. A fact is kept only if its quote appears word for word in the record.
+4. End dates, totals and contract history are worked out in code.
+5. The website is built from the result.
 
 ## The provided data
 

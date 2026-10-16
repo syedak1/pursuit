@@ -1,4 +1,4 @@
-# The crawler, the rules build and the website need only the Python standard library.
+# The crawler, the rules build and the website need only the Python standard library. This would be for other stuff I wanted to add.
 # Optional extras:
 anthropic>=0.40   # python -m clock.build --llm
 pytest>=8         # python -m pytest

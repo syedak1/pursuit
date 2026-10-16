@@ -24,7 +24,7 @@ then open local host **http://localhost:8000** in your browser. You can also jus
 
 You could start on the **For Pursuit** tab, it has a mini tour of the tool.
 
-### optional
+### Optional
 
 Download the latest records from Ann Arbor and rebuild, which might take a little:
 
@@ -80,7 +80,7 @@ Point at any underlined fact to see the exact sentence it came from. Click the f
 - Something like email alerts when a contract in someones market is coming up could be useful?
 - I'd definitely look more into how local governments contract with medical companies. I currently don't know much about that, but it seems like there are things that could definitely use improvement (physical therapy, substance abuse treatment, emergency medical care, public health clinics!!).
 
-## Project Folder layout
+## The Project Folder
 
 - `clock/`: the Python program that downloads, reads and checks the records.
 - `web/`: the website.

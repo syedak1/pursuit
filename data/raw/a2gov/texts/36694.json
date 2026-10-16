@@ -1,0 +1,15 @@
+{
+ "MatterId": 36694,
+ "versions": [
+  {
+   "Key": "40002",
+   "Value": "1"
+  }
+ ],
+ "text": {
+  "MatterTextId": 40002,
+  "MatterTextVersion": "1",
+  "MatterTextPlain": "..Title\nResolution to Approve Purchase of Broadcom/VMware Licensing and Support from CDW Government LLC ($307,625.00)\n..Memorandum\nThe attached resolution seeks authorization to renew Broadcom/VMware software maintenance and technical support from CDW Government LLC until June 2030 for a total cost of $307,625.00. \n\nBudget/Fiscal Impact: This expenditure is planned for and budgeted in the FY2025 and FY2026 Information Technology Services Fund budgets, with plans to budget for it in FY2027, FY2028, and FY2029 Information Technology Services Fund budgets at a cost of $61,525.00 annually.\n\nThe City of Ann Arbor received this quote through MiDEAL.\n\nThis purchase seeks to maintain technical support and software maintenance for the City's VMware computing infrastructure that hosts most City services. \n\n..Staff\nPrepared by: Jennifer Grimes, Infrastructure and Cybersecurity Manager, ITSU\nReviewed by: Joshua Baron, IT Director, ITSU\nApproved by: Milton Dohoney, Jr., City Administrator\n..Body\nWhereas, The City of Ann Arbor requires that VMware support and maintenance be purchased to operate the City's network computing environment and to enhance the level of City service delivery;\n\nWhereas, Funding for these expenditures is in the FY2025 and FY2026 Information Technology Budget and is planned to be included in FY2027, FY2028, and FY2029 Information Technology Fund Budgets;\n\nWhereas, the Dell servers provide key services to the City of Ann Arbor data center and this purchase was procured through the MiDEAL cooperative purchasing arrangement in accordance with City Code section 1:316(2); and\n\nWhereas, CDW Government LLC complies with the requirements of the City's Non-Discrimination and Living Wage Ordinances;\n\nRESOLVED, That City Council approve the purchase of VMware technical support and software maintenance from CDW Government LLC for three years, pursuant to the attached quote, for a total of $307,625.00;\n\nRESOLVED, That the City Council finds that the MiDEAL cooperate purchasing arrangement is cost-effective and in the City's best interest;\n\nRESOLVED, That the Mayor and City Clerk be authorized and directed to execute said agreement after approval as to substance by the City Administrator and approval as to form by the City Attorney; and\n\nRESOLVED, That the City Administrator be authorized to take the necessary actions to implement this resolution regardless of fiscal year, including the execution of any renewal documents required by VMware or CDW Government LLC, after approval as to form by the City Attorney, and future amendments not exceeding the approved expenditure, and termination of the agreement per its terms if deemed necessary.\n\n\n",
+  "MatterTextLastModifiedUtc": "2025-06-03T13:45:23.967"
+ }
+}

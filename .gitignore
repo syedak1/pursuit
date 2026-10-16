@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/cache/
+data/clock.db-wal
+data/clock.db-shm

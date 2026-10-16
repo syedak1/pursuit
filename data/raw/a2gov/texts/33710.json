@@ -1,0 +1,15 @@
+{
+ "MatterId": 33710,
+ "versions": [
+  {
+   "Key": "36834",
+   "Value": "1"
+  }
+ ],
+ "text": {
+  "MatterTextId": 36834,
+  "MatterTextVersion": "1",
+  "MatterTextPlain": "..Title\nResolution to Approve Purchase of Palo Alto Firewalls from AmeriNet of Michigan, Inc. ($289,509.48) (GSA Schedule IT 70 - GS-35F-0511T)\n..Memorandum\nAttached for your review and action is a resolution authorizing the creation of a purchase order to AmeriNet of Michigan, Inc. (\"AmeriNet\") in the amount of $289,509.48 to purchase replacement firewalls network equipment for cybersecurity protection. \n  \nCity of Ann Arbor IT is replacing our firewalls for cybersecurity protection. Our existing firewalls need renewal of software maintenance and dynamic updates, and the manufacturer is offering purchase of new models at a lower cost than extending support on aging hardware.  \n\nOur firewalls are a key piece of our cybersecurity protection for the organization.  \n\nBudget/Fiscal Impact:  Funding for the Palo Alto firewall network equipment is available in the FY2024 Information Technology Services Unit budget.\n\nAmeriNet complies with the requirements of the City's Non-Discrimination and Living Wage ordinances.\n..Staff\nPrepared by: Jen Grimes, Infrastructure and Cybersecurity Manager\nReviewed by: Tom Shewchuk, IT Director\nApproved by: Milton Dohoney, Jr., City Administrator\n..Body\nWhereas, AmeriNet was chosen for the purchase of the Palo Alto firewall equipment and is a Palo Alto reseller;\n\nWhereas, AmeriNet extends discounted pricing to the City of Ann Arbor through GSA Schedule IT 70 - GS-35F-0511T, a federal government agreement with pre-negotiated contract pricing;\n \nWhereas, The firewall equipment is a critical piece of infrastructure, significantly aides in protecting the City from cyber security attacks;\n \nWhereas, AmeriNet has been providing technical expertise to the City for Palo Alto administration for 7 years and has been a trusted network resource to the City for over 20 years;\n\nWhereas, AmeriNet complies with the requirements of the City's Non-Discrimination and Living Wage ordinances; and\nWhereas, Sufficient funding for the Palo Alto firewall network equipment is available in the FY2024 Information Technology Services Unit budget;\n \nRESOLVED, That City Council approve a purchase order with AmeriNet of Michigan, Inc. in the amount of $289,509.48 for the purchase of Palo Alto firewall network equipment, including a five-year maintenance and support agreement; and\n \nRESOLVED, That the City Administrator be authorized to take all necessary actions to implement this resolution regardless of fiscal year.\n",
+  "MatterTextLastModifiedUtc": "2024-03-01T16:02:08.287"
+ }
+}

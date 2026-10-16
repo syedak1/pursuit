@@ -1,0 +1,64 @@
+# optional, was still thinking/working on this.
+
+name: Refresh and publish
+
+on:
+  schedule:
+    - cron: "17 10 * * *"      # 6:17 am Ann Arbor time (EDT), after overnight agenda updates
+  workflow_dispatch: {}        # the "Run workflow" button
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      # The For Pursuit tab links to the repo, and feed entries link to the live site.
+      CLOCK_REPO_URL: https://github.com/${{ github.repository }}
+      CLOCK_SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: "Crawl (incremental, cached texts are skipped)"
+        if: github.event_name != 'push'
+        run: python -m clock.fetch --client a2gov
+      - name: Install the LLM client if a key is set
+        if: env.ANTHROPIC_API_KEY != ''
+        run: pip install anthropic
+      - name: Build
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ]; then python -m clock.build --llm; else python -m clock.build; fi
+      - name: Test
+        run: pip install pytest && python -m pytest -q
+      - name: Commit new data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "incumbent-clock bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data web/data
+          git diff --cached --quiet || git commit -m "Nightly refresh: $(date -u +%Y-%m-%d)"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

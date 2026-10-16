@@ -1,0 +1,11 @@
+{
+ "client": "a2gov",
+ "since": "2022-07-01",
+ "started_utc": "2026-10-16T06:08:02+00:00",
+ "finished_utc": "2026-10-16T06:08:09+00:00",
+ "council_resolutions": 1898,
+ "contract_like": 1161,
+ "fetched": 0,
+ "cached": 1161,
+ "failures": []
+}

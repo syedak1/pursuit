@@ -1,0 +1,42 @@
+[
+ {
+  "MatterAttachmentId": 77870,
+  "MatterAttachmentGuid": "FFAA7B92-BEDC-41B8-A5B3-652A24E8CFAC",
+  "MatterAttachmentLastModifiedUtc": "2026-09-11T17:46:33.937",
+  "MatterAttachmentRowVersion": "AAAAAAHuPd8=",
+  "MatterAttachmentName": "VOAA Amendment 1 Staff Report v2- 9.11.26.pdf",
+  "MatterAttachmentHyperlink": "https://a2gov.legistar1.com/a2gov/attachments/f79840ba-0b98-45cf-9605-359a3501bc8a.pdf",
+  "MatterAttachmentFileName": "f79840ba-0b98-45cf-9605-359a3501bc8a.pdf",
+  "MatterAttachmentMatterVersion": "0",
+  "MatterAttachmentIsHyperlink": false,
+  "MatterAttachmentBinary": null,
+  "MatterAttachmentIsSupportingDocument": false,
+  "MatterAttachmentShowOnInternetPage": true,
+  "MatterAttachmentIsMinuteOrder": false,
+  "MatterAttachmentIsBoardLetter": false,
+  "MatterAttachmentAgiloftId": 0,
+  "MatterAttachmentDescription": null,
+  "MatterAttachmentPrintWithReports": true,
+  "MatterAttachmentSort": 2
+ },
+ {
+  "MatterAttachmentId": 77979,
+  "MatterAttachmentGuid": "BF3F1485-875B-49C7-8E1A-C30077ABC823",
+  "MatterAttachmentLastModifiedUtc": "2026-09-18T13:48:57.103",
+  "MatterAttachmentRowVersion": "AAAAAAHtbfM=",
+  "MatterAttachmentName": "VOAA - Amend 1 to BF Plan - 9.18.26.pdf",
+  "MatterAttachmentHyperlink": "https://a2gov.legistar1.com/a2gov/attachments/3b0e5f91-a8f2-4943-8c17-8955caf04a94.pdf",
+  "MatterAttachmentFileName": "3b0e5f91-a8f2-4943-8c17-8955caf04a94.pdf",
+  "MatterAttachmentMatterVersion": "0",
+  "MatterAttachmentIsHyperlink": false,
+  "MatterAttachmentBinary": null,
+  "MatterAttachmentIsSupportingDocument": false,
+  "MatterAttachmentShowOnInternetPage": true,
+  "MatterAttachmentIsMinuteOrder": false,
+  "MatterAttachmentIsBoardLetter": false,
+  "MatterAttachmentAgiloftId": 0,
+  "MatterAttachmentDescription": null,
+  "MatterAttachmentPrintWithReports": true,
+  "MatterAttachmentSort": 3
+ }
+]

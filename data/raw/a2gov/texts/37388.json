@@ -1,0 +1,19 @@
+{
+ "MatterId": 37388,
+ "versions": [
+  {
+   "Key": "40730",
+   "Value": "1"
+  },
+  {
+   "Key": "40731",
+   "Value": "2"
+  }
+ ],
+ "text": {
+  "MatterTextId": 40731,
+  "MatterTextVersion": "2",
+  "MatterTextPlain": "..Title\nResolution to Approve Extension of Support Agreement for Pure Storage from CDW Government, LLC ($232,349.40)\n..Memorandum\nThe attached resolution authorizes the extension of an existing agreement for support of the City's Storage Area Network (SAN) from Pure Storage via CDW Government, LLC (\"CDW\").\n\nThe SAN provides all storage for the City's data centers and servers. The City is extending the agreement for the period February 2027 to February 2030.\n\nExtension of the agreement for a longer term grants the City access to hardware upgrades to keep the equipment running optimally with the most current hardware. When the Pure SAN was purchased, a support agreement was part of that purchase until February 2027. We are extending the support on this hardware to match up with other equipment purchases made this year, so that all equipment is maintained for the same period of time.\n\nBudget/Fiscal Impact: The FY2027 payment is available and planned for in the FY2027 Information Technology Services Unit budgets.  Funds will be planned and budgeted for in the FY2028 and FY2029 IT Fund Budgets. \n\nThis purchase was generated through Sourcewell for competitive procurement.\n..Staff\nPrepared by: Jennifer Grimes, Infrastructure and Cybersecurity Manager\nReviewed by: Joshua Baron, Director, Information Technology Services Unit\nApproved by: Milton Dohoney, Jr., City Administrator\n..Body\nWhereas, Support on the City's replacement SAN is key to Information Technology providing critical technology services to City staff and citizens;\n\nWhereas, Funding for this project is available in the approved FY2027 Information Technology Budget and the remainder of the funding will be planned and budgeted for in the FY2028 and FY2029 Information Technology Budget; and\n\nWhereas, CDW Government has signed a declaration of compliance with the City's Living Wage and Non-Discrimination Ordinances;\n\nRESOLVED, that City Council approves the extension of the support agreement with CDC-G for an additional three years, until February 2030, for $232,349.40; and\n\nRESOLVED, That the City Administrator be authorized to take all necessary actions to implement this Resolution regardless of fiscal year; and\n\nRESOLVED, That the funds identified herein be made available without regard to fiscal year.\n",
+  "MatterTextLastModifiedUtc": "2025-10-20T18:29:39.143"
+ }
+}

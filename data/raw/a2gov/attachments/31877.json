@@ -1,0 +1,42 @@
+[
+ {
+  "MatterAttachmentId": 59651,
+  "MatterAttachmentGuid": "5ECCB5E0-945B-4ABB-9118-D5D6B563DBA5",
+  "MatterAttachmentLastModifiedUtc": "2023-04-25T16:11:58.847",
+  "MatterAttachmentRowVersion": "AAAAAAGNvUU=",
+  "MatterAttachmentName": "PublicServices&AirportFeesFY24REV.pdf",
+  "MatterAttachmentHyperlink": "https://a2gov.legistar1.com/a2gov/attachments/342c3d0d-f4e7-4984-8286-8e9ce525180e.pdf",
+  "MatterAttachmentFileName": "342c3d0d-f4e7-4984-8286-8e9ce525180e.pdf",
+  "MatterAttachmentMatterVersion": "0",
+  "MatterAttachmentIsHyperlink": false,
+  "MatterAttachmentBinary": null,
+  "MatterAttachmentIsSupportingDocument": false,
+  "MatterAttachmentShowOnInternetPage": true,
+  "MatterAttachmentIsMinuteOrder": false,
+  "MatterAttachmentIsBoardLetter": false,
+  "MatterAttachmentAgiloftId": 0,
+  "MatterAttachmentDescription": null,
+  "MatterAttachmentPrintWithReports": true,
+  "MatterAttachmentSort": 1
+ },
+ {
+  "MatterAttachmentId": 59838,
+  "MatterAttachmentGuid": "7F2D195E-6465-4F2F-80AC-E9F481E65BB5",
+  "MatterAttachmentLastModifiedUtc": "2023-05-08T15:42:40.85",
+  "MatterAttachmentRowVersion": "AAAAAAFzEsw=",
+  "MatterAttachmentName": "WLN clipping FY24 Fees Public Services Area - Public Hearing Notice.pdf",
+  "MatterAttachmentHyperlink": "https://a2gov.legistar1.com/a2gov/attachments/67b1b5ab-d091-4f9f-8c67-8fef06acf638.pdf",
+  "MatterAttachmentFileName": "67b1b5ab-d091-4f9f-8c67-8fef06acf638.pdf",
+  "MatterAttachmentMatterVersion": "0",
+  "MatterAttachmentIsHyperlink": false,
+  "MatterAttachmentBinary": null,
+  "MatterAttachmentIsSupportingDocument": false,
+  "MatterAttachmentShowOnInternetPage": true,
+  "MatterAttachmentIsMinuteOrder": false,
+  "MatterAttachmentIsBoardLetter": false,
+  "MatterAttachmentAgiloftId": 0,
+  "MatterAttachmentDescription": null,
+  "MatterAttachmentPrintWithReports": true,
+  "MatterAttachmentSort": 3
+ }
+]

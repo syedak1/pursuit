@@ -1,0 +1,15 @@
+{
+ "MatterId": 32363,
+ "versions": [
+  {
+   "Key": "35388",
+   "Value": "1"
+  }
+ ],
+ "text": {
+  "MatterTextId": 35388,
+  "MatterTextVersion": "1",
+  "MatterTextPlain": "..Title\nResolution to Purchase Cohesity Backup System and Support and Professional Services from CDW Government LLC ($383,823.47)\n..Memorandum\nThe attached resolution seeks authorization to purchase a Cohesity backup solution and enter into a support agreement, with installation and professional services provided by CDW Government LLC.  The backup system is a critical piece of infrastructure, which significantly aides in protecting the City from cyber security attacks.  The City's existing backup solution is aging and maintenance support services on the older solution has become cost prohibitive.  \n\nInformation Technology reviewed several proposed solutions from multiple vendors seeking quality features and services.  This solution was chosen for its reasonable cost and provision of multifactor authentication security that is preferred by the City's cyber insurance providers.  \n\nBudget/Fiscal Impact: This expenditure is planned for and budgeted in the FY2024 Information Technology Services Fund budget.  \n\nThe City received this quote through MiDEAL, a consortium procurement source used regularly by the City.\n...Staff\nPrepared by : Jen Grimes, Infrastructure and Cybersecurity Manager, ITSU\nReviewed by: Tom Shewchuk, IT Director\nApproved by: Milton Dohoney Jr., City Administrator\n..Body\nWhereas, After review of products from multiple vendors, CDW Government LLC was chosen for the purchase of the Cohesity backup system due in part to its reasonable cost and multifactor authentication security;\n \nWhereas, The backup system is a critical piece of infrastructure, which significantly aides in protecting the City from cyber security attacks;\n \nWhereas, CDW Government LLC complies with the requirements of the City's Non-Discrimination and Living Wage ordinances; and\n \nWhereas, Sufficient funding for the Cohesity backup system is available in the FY2024 Information Technology Services Unit budget;\n \nRESOLVED, That City Council approve the purchase of Cohesity backup solution and professional support services from CDW Government LLC in the amount of $383,823.47 in accordance with the attached quote; \n\nRESOLVED, That City Council approve a ten percent (10%) contingency in the amount of $38,382, subject to City Administrator approval; and\n \nRESOLVED, That the City Administrator be authorized to take all necessary actions to implement this resolution.\n",
+  "MatterTextLastModifiedUtc": "2023-06-14T19:35:28.057"
+ }
+}

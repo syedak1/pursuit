@@ -1,0 +1,19 @@
+{
+ "MatterId": 32841,
+ "versions": [
+  {
+   "Key": "35898",
+   "Value": "1"
+  },
+  {
+   "Key": "35899",
+   "Value": "2"
+  }
+ ],
+ "text": {
+  "MatterTextId": 35899,
+  "MatterTextVersion": "2",
+  "MatterTextPlain": "..Title\nResolution Recommending Approval of Amendment #2 for Wade Trim\n",
+  "MatterTextLastModifiedUtc": "2023-09-15T19:37:46.353"
+ }
+}

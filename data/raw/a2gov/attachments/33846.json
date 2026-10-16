@@ -1,0 +1,42 @@
+[
+ {
+  "MatterAttachmentId": 64396,
+  "MatterAttachmentGuid": "25438A91-8221-4A1C-B753-DCDCEC329F7D",
+  "MatterAttachmentLastModifiedUtc": "2024-04-01T16:43:14.637",
+  "MatterAttachmentRowVersion": "AAAAAAGR7CA=",
+  "MatterAttachmentName": "PublicServicesFeeAdjustmentsFY25.pdf",
+  "MatterAttachmentHyperlink": "https://a2gov.legistar1.com/a2gov/attachments/b17ef825-06f2-41a4-8d08-7cbd835bcbae.pdf",
+  "MatterAttachmentFileName": "b17ef825-06f2-41a4-8d08-7cbd835bcbae.pdf",
+  "MatterAttachmentMatterVersion": "0",
+  "MatterAttachmentIsHyperlink": false,
+  "MatterAttachmentBinary": null,
+  "MatterAttachmentIsSupportingDocument": false,
+  "MatterAttachmentShowOnInternetPage": true,
+  "MatterAttachmentIsMinuteOrder": false,
+  "MatterAttachmentIsBoardLetter": false,
+  "MatterAttachmentAgiloftId": 0,
+  "MatterAttachmentDescription": null,
+  "MatterAttachmentPrintWithReports": true,
+  "MatterAttachmentSort": 1
+ },
+ {
+  "MatterAttachmentId": 64875,
+  "MatterAttachmentGuid": "70EDBAA4-3362-4AF1-86F3-6DA837A0DE22",
+  "MatterAttachmentLastModifiedUtc": "2024-04-23T19:05:17.003",
+  "MatterAttachmentRowVersion": "AAAAAAGR7B0=",
+  "MatterAttachmentName": "WLN clipping FY25 Fee Adjustments Public Services – Public Hearing Notice.pdf",
+  "MatterAttachmentHyperlink": "https://a2gov.legistar1.com/a2gov/attachments/507c6b5c-4436-44d1-bc10-09f5d3273dd6.pdf",
+  "MatterAttachmentFileName": "507c6b5c-4436-44d1-bc10-09f5d3273dd6.pdf",
+  "MatterAttachmentMatterVersion": "0",
+  "MatterAttachmentIsHyperlink": false,
+  "MatterAttachmentBinary": null,
+  "MatterAttachmentIsSupportingDocument": false,
+  "MatterAttachmentShowOnInternetPage": true,
+  "MatterAttachmentIsMinuteOrder": false,
+  "MatterAttachmentIsBoardLetter": false,
+  "MatterAttachmentAgiloftId": 0,
+  "MatterAttachmentDescription": null,
+  "MatterAttachmentPrintWithReports": true,
+  "MatterAttachmentSort": 2
+ }
+]

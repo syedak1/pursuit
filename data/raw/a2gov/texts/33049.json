@@ -1,0 +1,19 @@
+{
+ "MatterId": 33049,
+ "versions": [
+  {
+   "Key": "36121",
+   "Value": "1"
+  },
+  {
+   "Key": "36122",
+   "Value": "2"
+  }
+ ],
+ "text": {
+  "MatterTextId": 36122,
+  "MatterTextVersion": "2",
+  "MatterTextPlain": null,
+  "MatterTextLastModifiedUtc": "2023-10-20T11:52:55.03"
+ }
+}

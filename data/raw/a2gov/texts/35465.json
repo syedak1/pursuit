@@ -1,0 +1,19 @@
+{
+ "MatterId": 35465,
+ "versions": [
+  {
+   "Key": "38711",
+   "Value": "1"
+  },
+  {
+   "Key": "38712",
+   "Value": "2"
+  }
+ ],
+ "text": {
+  "MatterTextId": 38712,
+  "MatterTextVersion": "2",
+  "MatterTextPlain": "..Title\nResolution to Approve Three-Year Support and Maintenance Contract with Hedrick Associates for UPS and CRAC Systems in the City's Data Centers ($157,340.00)\n..Memorandum\nAttached for your review and action is a resolution authorizing a purchase of support and preventative maintenance from Hedrick Associates for $157,340.00. This proposal has been competitively bid through MiDEAL. Hedrick Associates is a reseller for Vertiv, a leading name in the industry. \n\nBudget/Fiscal Impact: Funding for these services is available in the in the FY2025 ($52,446.67) Information Technology Services Unit budget. This expense will be budgeted for in the FY2026 ($52,446.67) and FY2027 ($52,446.66) Information Technology Services Unit budgets.\n\nThis preventative maintenance covers two Uninterruptible Power Supplies (UPS) in the primary City of Ann Arbor data center and a third UPS in our secondary data center. The battery systems for these UPS are also a part of this agreement. Maintenance to the computer room air conditioning (CRAC) system in both data centers is also included. These systems are critical to keeping the City of Ann Arbor server infrastructure online and protected.\n..Staff\nPrepared by: Jen Grimes, IT Infrastructure and Cybersecurity Manager\nReviewed by: Josh Baron, IT Director\nApproved by: Milton Dohoney, Jr., City Administrator\n..Body\nWhereas, The attached proposal will provide services to maintain critical infrastructure systems required to run the City of Ann Arbor data center; \n\nWhereas, Funding for this maintenance and support service is available in the FY2025 ($52,446.67) IT Service Unit budget and the remaining FY2026 ($52,446.67) and FY2027 ($52,446.66) amounts are planned to be budgeted in those fiscal years; and\n\nWhereas, The City procured this service with Hedrick Associates through MiDEAL cooperative purchasing arrangement in accordance with City Code section 1:316(2);\n\nRESOLVED, That City Council approve a purchase order and three-year contract with Hedrick Associates for preventative maintenance to protect the UPS and CRAC systems of the City's two data centers in an amount of $157,340.00, to be expended in FY2025 ($52,446.67), FY2026 ($52,446.67) and FY2027 ($52,446.66) from the IT Service Unit budget, subject to appropriation;\n\nRESOLVED, That the City Council determines that the procurement of such service through the MiDEAL cooperative purchasing arrangement is cost-effective and in the City's best interest; and\n\nRESOLVED, That the City Administrator be authorized to take all necessary actions to implement this resolution regardless of fiscal year, including execution of any amendments that do not exceed the amounts authorized herein, and termination of the contract if deemed necessary, subject to City Attorney review and approval.\n",
+  "MatterTextLastModifiedUtc": "2024-12-02T20:37:34.297"
+ }
+}
